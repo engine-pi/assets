@@ -1,0 +1,113 @@
+{
+  "id": "securing_the_road",
+  "version": "de.01",
+  "authors": "Hannah Rauterberg",
+  "title": "Straße sichern",
+  "menu": ["Wiederholungen – Übungen", "Straße sichern"],
+  "sources": [
+    "https://jwinf.de/task/1140",
+    "https://jwinf.de/tasks/jwinf/jwinf-aufgaben/beispiele/Cones/index.html?channelId=task",
+    "https://jwinf.de/tasks/jwinf/jwinf-aufgaben/beispiele/Cones/task.js"
+  ],
+  "gridInfos": {
+    "conceptViewer": false,
+    "contextType": "cones",
+    "blocklyColourTheme": "bwinf",
+    "maxInstructions": {
+      "easy": 10,
+      "medium": 15,
+      "hard": 20
+    },
+    "includeBlocks": {
+      "groupByCategory": false,
+      "generatedBlocks": {
+        "robot": ["left", "right", "forward", "dropObject"]
+      },
+      "standardBlocks": {
+        "includeAll": false,
+        "wholeCategories": [],
+        "singleBlocks": ["controls_repeat"]
+      },
+      "pythonAdditionalFunctions": {
+        "shared": ["range"]
+      }
+    },
+    "backgroundColor": "#f0f0f8",
+    "hideSaveOrLoad": true
+  },
+  "data": {
+    "easy": [
+      {
+        "tiles": [
+          [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+          [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1],
+          [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+        ],
+        "initItems": [
+          {
+            "row": 1,
+            "col": 10,
+            "dir": 2,
+            "type": "robot"
+          }
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "tiles": [
+          [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+          [1, 2, 2, 1, 2, 2, 1, 2, 2, 1, 2, 2, 1, 1],
+          [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+          [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+        ],
+        "initItems": [
+          {
+            "row": 2,
+            "col": 1,
+            "dir": 0,
+            "type": "robot"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "type": "cone"
+          },
+          {
+            "row": 1,
+            "col": 7,
+            "type": "cone"
+          },
+          {
+            "row": 1,
+            "col": 10,
+            "type": "cone"
+          },
+          {
+            "row": 1,
+            "col": 1,
+            "type": "cone"
+          }
+        ]
+      }
+    ],
+    "hard": [
+      {
+        "tiles": [
+          [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+          [1, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1],
+          [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+          [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+        ],
+        "initItems": [
+          {
+            "row": 2,
+            "col": 0,
+            "dir": 0,
+            "type": "robot"
+          }
+        ]
+      }
+    ]
+  }
+}
