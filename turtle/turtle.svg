@@ -5,7 +5,7 @@
    height="21.999998"
    viewBox="0 0 458.33332 458.33329"
    version="1.1"
-   sodipodi:docname="Turtle2.svg"
+   sodipodi:docname="turtle.svg"
    inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
    inkscape:export-filename="Turtle2.png"
    inkscape:export-xdpi="1117.0909"
@@ -25,9 +25,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="45.254834"
-     inkscape:cx="7.1373591"
-     inkscape:cy="13.324543"
+     inkscape:zoom="32"
+     inkscape:cx="-0.03125"
+     inkscape:cy="14.78125"
      inkscape:window-width="3840"
      inkscape:window-height="1531"
      inkscape:window-x="0"
@@ -52,43 +52,43 @@
   </sodipodi:namedview>
   <path
      style="display:inline;opacity:1;fill:none;stroke:#f6d32d;stroke-width:41.6667;stroke-linecap:round;stroke-dasharray:none"
-     d="m 229.16665,354.16662 v 62.5"
+     d="M 125.00002,229.1781 H 62.500022"
      id="path3"
      inkscape:label="Schwanz neu" />
   <path
      style="display:inline;opacity:1;fill:none;stroke:#f5c211;stroke-width:62.5;stroke-linecap:round;stroke-dasharray:none"
-     d="M 395.83331,166.66665 229.16665,260.41664"
+     d="M 312.49999,395.84476 218.75,229.1781"
      id="path2"
      sodipodi:nodetypes="cc"
      inkscape:label="rechts oben" />
   <path
      style="display:inline;opacity:1;fill:none;stroke:#f6d32d;stroke-width:62.5;stroke-linecap:round;stroke-dasharray:none"
-     d="m 229.16665,260.41664 -166.666654,93.75"
+     d="M 218.75,229.1781 125,62.511442"
      id="path6"
      sodipodi:nodetypes="cc"
      inkscape:label="links unten" />
   <path
      style="display:inline;opacity:1;fill:none;stroke:#f5c211;stroke-width:62.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-     d="m 229.16665,260.41664 166.66666,93.75"
+     d="M 218.75,229.1781 125,395.84476"
      id="path5"
      inkscape:label="rechts unten"
      sodipodi:nodetypes="cc" />
   <path
      style="display:inline;opacity:1;fill:none;stroke:#f6d32d;stroke-width:62.5;stroke-linecap:round;stroke-dasharray:none"
-     d="M 62.499996,166.66665 229.16665,260.41664"
+     d="M 312.49999,62.511442 218.75,229.1781"
      id="path4"
      inkscape:label="links oben"
      sodipodi:nodetypes="cc" />
   <path
      style="opacity:1;fill:none;stroke:#f6d32d;stroke-width:125;stroke-linecap:round;stroke-dasharray:none"
-     d="m 229.16665,83.333328 -0.0229,99.926632"
+     d="m 395.83331,229.1781 -99.92663,-0.0229"
      id="path1"
      inkscape:label="Kopf neu" />
   <g
      id="g4"
      inkscape:label="orig"
      style="display:inline;stroke:#26a269"
-     transform="translate(-20.833332,20.833332)">
+     transform="rotate(90,239.57759,218.75572)">
     <path
        fill="#f3b73f"
        d="m 362.779,266.957 c -4.32,22.184 -13.866,42.809 -27.605,59.647 -6.415,7.861 -4.206,19.611 4.613,24.612 l 43.702,24.782 c 25.456,14.451 57.938,5.491 72.398,-19.979 14.433,-25.502 5.461,-57.976 -19.991,-72.409 l -48.947,-27.771 c -9.692,-5.5 -22.022,0.088 -24.17,11.118 z"
@@ -237,15 +237,17 @@
   <circle
      style="opacity:1;fill:#b5835a;stroke:none;stroke-width:62.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
      id="path7"
-     cx="208.33331"
-     cy="62.499996"
+     cx="208.34476"
+     cy="-416.66666"
      r="10.416665"
-     inkscape:label="Auge links" />
+     inkscape:label="Auge links"
+     transform="rotate(90)" />
   <circle
      style="fill:#986a44;stroke:none;stroke-width:62.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
      id="path7-9"
-     cx="249.99998"
-     cy="62.499996"
+     cx="250.01143"
+     cy="-416.66666"
      r="10.416665"
-     inkscape:label="Auge rechts" />
+     inkscape:label="Auge rechts"
+     transform="rotate(90)" />
 </svg>
