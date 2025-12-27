@@ -8,8 +8,9 @@ for root, dirs, files in os.walk("."):
         new_file = re.sub(r"\d\d\.2", "medium", new_file)
         new_file = re.sub(r"\d\d\.3", "hard", new_file)
 
-        new_file = new_file.replace("_sol", "_solution")
-        new_file = new_file.replace("_icon", "_screenshot-orig")
+        new_file = new_file.replace("_sol.", "_solution.")
+        new_file = new_file.replace("_icon.", "_screenshot-orig.")
+        new_file = new_file.replace("solutionution", "solution")
 
         new_path = os.path.join(root, new_file)
         os.rename(old_path, new_path)
