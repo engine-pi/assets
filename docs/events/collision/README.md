@@ -1,4 +1,4 @@
-Go to file:///home/jf/repos/school/monorepo/inf/java/engine-pi/docs/manual/events/collision.md
+Go to file:///data/school/repos/inf/java/engine-pi/docs/manual/events/collision.md
 
 https://pixelfrog-assets.itch.io/pixel-adventure-1
 
