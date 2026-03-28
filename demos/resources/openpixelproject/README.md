@@ -8,3 +8,4 @@ In diesem Verzeichnis finden sich die Assets des [Open Pixel Projects](http://ww
 - [Website](http://www.openpixelproject.com)
 - [Pixeljoint Forum](http://pixeljoint.com/forum/forum_topics.asp?FID=23)
 - [Discord](https://discord.gg/kEP2UDZ)
+- [opengameart.org](https://opengameart.org/content/opp2017-jungle-and-temple-set)
